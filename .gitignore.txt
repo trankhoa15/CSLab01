@@ -1,6 +1,6 @@
-/VLEBT1/.vs
-/VLEBT1/bin
-/VLEBT1/obj
+/Baitap1/.vs
+/Baitap1/bin
+/Baitap1/obj
 /Baitap2/.vs
 /Baitap2/bin
 /Baitap2/obj
