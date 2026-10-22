@@ -1,0 +1,14 @@
+/VLEBT1/.vs
+/VLEBT1/bin
+/VLEBT1/obj
+/Baitap2/.vs
+/Baitap2/bin
+/Baitap2/obj
+/Baitap3/.vs
+/Baitap3/bin
+/Baitap3/obj
+/Baitap4/.vs
+/Baitap4/bin
+/Baitap4/obj
+
+

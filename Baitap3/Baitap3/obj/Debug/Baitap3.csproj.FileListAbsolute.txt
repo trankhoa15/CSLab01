@@ -1,0 +1,7 @@
+C:\Users\MY COMPUTER\source\repos\Baitap3\Baitap3\bin\Debug\Baitap3.exe.config
+C:\Users\MY COMPUTER\source\repos\Baitap3\Baitap3\bin\Debug\Baitap3.exe
+C:\Users\MY COMPUTER\source\repos\Baitap3\Baitap3\bin\Debug\Baitap3.pdb
+C:\Users\MY COMPUTER\source\repos\Baitap3\Baitap3\obj\Debug\Baitap3.csproj.AssemblyReference.cache
+C:\Users\MY COMPUTER\source\repos\Baitap3\Baitap3\obj\Debug\Baitap3.csproj.CoreCompileInputs.cache
+C:\Users\MY COMPUTER\source\repos\Baitap3\Baitap3\obj\Debug\Baitap3.exe
+C:\Users\MY COMPUTER\source\repos\Baitap3\Baitap3\obj\Debug\Baitap3.pdb
